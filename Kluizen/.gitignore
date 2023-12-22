@@ -1,0 +1,5 @@
+# git neemt geen lege mappen op in de repository? Weet niet of dit de beste workaround is, maarja haha.
+
+
+*
+!.gitignore
